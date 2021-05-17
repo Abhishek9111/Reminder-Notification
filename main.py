@@ -9,7 +9,7 @@ if __name__ == "__main__":
         )    
         time.sleep(60*60)
         
- #pythonw.exe .\project4.py
+ #pythonw.exe .\main.py
  #type the above command in the terminal to fetch the current file into background process 
 
 #app_icon = "F:\python\icon.ico",
